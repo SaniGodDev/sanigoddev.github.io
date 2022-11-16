@@ -1,8 +1,6 @@
 .layout-nft {
   display: flex;
   flex-wrap: wrap;
-  margin-top: -1em;
-  margin-left: -3.5em;
   align-items: center;
 }
 .layout-nft:not(:first-of-type) {
