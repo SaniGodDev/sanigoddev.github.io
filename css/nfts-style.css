@@ -16,6 +16,7 @@
 .layout-nft__item--body {
   flex-grow: 9999;
   flex-basis: 15rem;
+  text-align: left;
 }
 .layout-nft__item--figure {
   margin-right: auto;
@@ -29,6 +30,10 @@
     max-width: max-content;
     flex-basis: 15rem;
     flex-grow: 99999;
+  }
+  
+  .layout-nft__item {
+    padding-left: 0;
   }
 }
 
