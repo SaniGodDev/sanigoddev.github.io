@@ -459,6 +459,9 @@ nav ul li a {
 	position:relative;
 	font-size: 15px;
 }
+.contenitore-footer {
+	width: 100%;
+}
 .spaziatura {
 	display: block;
 	position:relative; 
@@ -628,6 +631,9 @@ nav ul li a {
 	padding:0; 
 	position:relative;
 	font-size: 14px;
+}
+.contenitore-footer {
+	width: 100%;
 }
 .spaziatura {
 	display: block;
