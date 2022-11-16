@@ -35,6 +35,10 @@
   .layout-nft__item {
     padding-left: 0;
   }
+  
+  .layout-nft__item--body {
+    text-align: center;
+  }
 }
 
 .nft-image {
