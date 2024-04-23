@@ -1,0 +1,1 @@
+No Content: http://sanininu.com/packages/vibrant-image/src/histogram.ts

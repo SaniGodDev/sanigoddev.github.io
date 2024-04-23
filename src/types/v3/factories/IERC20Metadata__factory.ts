@@ -1,0 +1,1 @@
+No Content: http://sanininu.com/src/types/v3/factories/IERC20Metadata__factory.ts

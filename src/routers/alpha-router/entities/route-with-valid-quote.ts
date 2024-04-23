@@ -1,0 +1,1 @@
+No Content: http://sanininu.com/src/routers/alpha-router/entities/route-with-valid-quote.ts

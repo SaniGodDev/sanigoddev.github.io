@@ -1,0 +1,1 @@
+No Content: http://sanininu.com/src/util/log.ts

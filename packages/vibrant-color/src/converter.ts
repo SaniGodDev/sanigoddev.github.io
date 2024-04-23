@@ -1,0 +1,1 @@
+No Content: http://sanininu.com/packages/vibrant-color/src/converter.ts

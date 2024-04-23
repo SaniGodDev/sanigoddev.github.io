@@ -1,0 +1,1 @@
+No Content: http://sanininu.com/packages/node-vibrant/src/pipeline/index.ts
